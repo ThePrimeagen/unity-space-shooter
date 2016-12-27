@@ -1,0 +1,24 @@
+# Ignore Everything
+*
+
+# Undo's the ignoring
+# Assets
+!Assets/
+!Assets/Scripts/
+!Assets/Scripts/*.cs
+
+# Bin
+!bin/
+!bin/shooter_gl/
+!bin/shooter_gl/**/*.html
+!bin/shooter_gl/**/*.jsgz
+!bin/shooter_gl/**/*.js
+!bin/shooter_gl/**/*.ico
+!bin/shooter_gl/**/*.png
+!bin/shooter_gl/**/*.css
+!bin/shooter_gl/Release/
+!bin/shooter_gl/TemplateData/
+
+!.gitignore
+
+
